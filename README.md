@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center"><img src="https://github.com/IAmSalvaMartini/IAmSalvaMartini/blob/main/howyoudoin.jpg" alt="How you doin?" /><br>
+<img src="https://komarev.com/ghpvc/?username=IAmSalvaMartini&style=flat-square" alt="IAmSalvaMartini" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=IAmSalvaMartini&show_icons=true&count_private=true&title_color=ff5555&icon_color=88c0d0&bg_color=151515&text_color=d8dee9" alt="IAmSalvaMartini" />
+
 
 <!--
 **IAmSalvaMartini/IAmSalvaMartini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=IAmSalvaMartini)
